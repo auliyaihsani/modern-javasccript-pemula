@@ -1,5 +1,4 @@
 const color = 'yellow';
-
 switch (color) {
     case 'red':
         console.log('color is red');
