@@ -17,5 +17,5 @@ console.log(square());
 // memanggil function yang sedang dibaca
 
 (function (name) {
-    console.log(`hello ${name}`)
+    console.log(`hello ${name}`);
 }) ('ihsani');
